@@ -90,13 +90,14 @@ header nav div a img{
     font-size: 1.4rem;
     
 }
-.videos-grid{
+ .videos-grid{
     text-align: center;
-}
+} 
 .titulo-videos{
+    text-align: center;
     margin-bottom: 30px;
     font-family: 'Bebas Neue', sans-serif;
-}
+} 
 .hx-index{
     margin-top: 15px;
     font-family: 'Didact Gothic', sans-serif;
